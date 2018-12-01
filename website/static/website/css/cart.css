@@ -1,0 +1,132 @@
+ 
+	     .jumbotron{
+	    	   width: 40%;
+	    	   border-radius: 6px;
+	    	   margin-top: 5%;
+	    	   margin-left: auto;
+           margin-right: auto;
+	      }
+	      #login_head{
+	          background-color: #455a64;
+            width: 60%;
+            padding: 0.5rem;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 7px;
+            margin-top: -9rem;
+            color: white;
+            margin-bottom: 5rem;
+        }
+        h3#cart_head {
+            font-size: 3rem;
+            text-align: center;
+            letter-spacing: 2px;
+            margin-top: 1rem;
+        }
+	      #prod_name{
+            margin-left: 30%;
+            margin-top: 1rem;
+	      }
+	      #prod_price{
+	    	  margin-top: 1rem;
+	      }
+	      #user_prod{
+	    	  margin-left: 5rem;
+          color: #455a64;
+	      }
+	      hr#seperator{
+	    	  background-color: lightgrey;
+	    	  width: 60%;
+	    	  height: 1px;
+	    	  margin-top: 1rem;
+          color: #455a64;
+	      }
+	      #total_head{
+	    	  margin-left: 32%;
+	    	  margin-top: -3rem;
+	    	  padding-top: -2rem;
+          color: #455a64;
+	      }
+	      span#total_price{
+	    	  margin-left: 24%;
+          color: #455a64;
+	      }
+	      #prod_head{
+	    	  margin-left: 30%;
+	    	  font-size: 20px;
+          margin-top: 3rem;
+          color: #455a64;
+	      }
+	      #cost_head{
+	    	   margin-left: 15%;
+           color: #455a64;
+	      }
+	       button#pay_button{
+            width: 80%;
+            background-color: #455a64;
+            color: white;
+            padding: 1rem;
+            border-radius: 4px;
+            border: none;
+            margin-top: -1rem;
+            margin-left: 10%;
+            margin-bottom: 1rem;
+            cursor: pointer;
+            letter-spacing: 1px;
+            outline-style: none;
+            text-decoration: none;
+        }
+
+        /*footer starts*/
+        .container.contact.animated.fadeIn {
+            color: white;
+        }
+        h4#icons{
+           font-weight: bold;
+        }
+        p#contactLink{
+           margin-bottom: 2rem;
+        }
+        .fa-instagram {
+          border: 1px solid white;
+          border-radius: 50%;
+          padding: 1.2rem 1.5rem;
+          cursor: pointer;
+          color: #455a64;
+          background-color: white;
+          margin-bottom: 1rem;
+        }
+       .fa-envelope{
+          border: 1px solid white;
+          border-radius: 50%;
+          padding: 1.2rem 1.7rem;
+          cursor: pointer;
+          color: #455a64;
+          background-color: white;
+          margin-bottom: 1rem;
+        }
+        .fa-facebook {
+          border: 1px solid white;
+          border-radius: 50%;
+          padding: 1.2rem 1.8rem;
+          cursor: pointer;
+          color: #455a64;
+          background-color: white;
+          margin-bottom: 1rem;
+        }
+        .fa-envelope:hover,.fa-facebook:hover,.fa-instagram:hover{
+          color: white; 
+          background-color: transparent;
+          border: 1px solid white;
+        }
+       .glyphicon-chevron-up{
+          float: right;
+          padding-right: 2rem;
+          font-size: 20px;
+          cursor: pointer;
+          color: white;
+        }
+        .glyphicon-chevron-up:hover{
+          color: white;
+        }
+        /* footer ends */
